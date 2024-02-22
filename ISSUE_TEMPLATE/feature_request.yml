@@ -1,0 +1,23 @@
+name: ✨Feature-Anfrage
+description: Eine neue Funktion oder Verbesserung anfordern
+labels: ["verbesserung"]
+title: "[FEAT]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Bitte vergewissere dich, dass diese Anfrage nicht bereits von jemandem eingereicht wurde, indem Du andere offene/geschlossene Probleme durchsiehst
+  
+  - type: textarea
+    id: beschreibung
+    attributes:
+      label: Beschreibung
+      description: Gib uns eine kurze Beschreibung der Funktion oder Verbesserung, die Du dir wünschst
+    validations:
+      required: true
+      
+  - type: textarea
+    id: zusaetzliche-informationen
+    attributes:
+      label: Zusätzliche Informationen
+      description: Gib uns zusätzliche Informationen zu Deiner Anfrage wie Lösungsvorschläge, Links, Screenshots usw.

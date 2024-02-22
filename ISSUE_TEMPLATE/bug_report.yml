@@ -1,5 +1,5 @@
-name: 🐛 Fehlerbericht
-description: Reiche hier einen Fehlerbericht ein
+name: 🐛Bug Report
+description: File a bug report here
 title: "[BUG]: "
 labels: ["bug"]
 assignees: ["k1nsej"]
@@ -7,32 +7,32 @@ body:
   - type: markdown
     attributes:
       value: |
-        Danke, dass Du dir die Zeit genommen hast, diesen Fehlerbericht auszufüllen. 🤗
-        Stelle bitte sicher, dass es keine offenen/geschlossenen Fragen zu diesem Thema gibt 😃
+        Thanks for taking the time to fill out this bug report 🤗
+        Make sure there aren't any open/closed issues for this topic 😃
         
   - type: textarea
-    id: bug-beschreibung
+    id: bug-description
     attributes:
-      label: Beschreibung des Bugs
-      description: Beschreibe uns kurz, was passiert ist und was hätte passieren sollen
+      label: Description of the bug
+      description: Give us a brief description of what happened and what should have happened
     validations:
       required: true
       
   - type: textarea
-    id: schritte-zum-reproduzieren
+    id: steps-to-reproduce
     attributes:
-      label: Schritte zum Reproduzieren
-      description: Schritte um das Verhalten zu reproduzieren.
+      label: Steps To Reproduce
+      description: Steps to reproduce the behavior.
       placeholder: |
-        1. Gehe zu '...'
-        2. Klicke auf '...'
-        3. Scrolle runter zu '...'
-        4. Fehler '...' tritt auf
+        1. Go to '...'
+        2. Click on '...'
+        3. Scroll down to '...'
+        4. See error
     validations:
       required: true
   - type: textarea
-    id: zusaetzliche-informationen
+    id: additional-information
     attributes:
-      label: Zusätzliche Informationen
+      label: Additional Information
       description: |
-        Stelle alle zusätzlichen Informationen wie Protokolle, Screenshots, Likes, Szenarien, in denen der Fehler auftritt, zur Verfügung, um die Lösung des Problems zu erleichtern.
+        Provide any additional information such as logs, screenshots, likes, scenarios in which the bug occurs so that it facilitates resolving the issue.

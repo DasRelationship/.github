@@ -1,0 +1,38 @@
+name: 🐛 Fehlerbericht
+description: Reiche hier einen Fehlerbericht ein
+title: "[BUG]: "
+labels: ["bug"]
+assignees: ["k1nsej"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Danke, dass Du dir die Zeit genommen hast, diesen Fehlerbericht auszufüllen. 🤗
+        Stelle bitte sicher, dass es keine offenen/geschlossenen Fragen zu diesem Thema gibt 😃
+        
+  - type: textarea
+    id: bug-beschreibung
+    attributes:
+      label: Beschreibung des Bugs
+      description: Beschreibe uns kurz, was passiert ist und was hätte passieren sollen
+    validations:
+      required: true
+      
+  - type: textarea
+    id: schritte-zum-reproduzieren
+    attributes:
+      label: Schritte zum Reproduzieren
+      description: Schritte um das Verhalten zu reproduzieren.
+      placeholder: |
+        1. Gehe zu '...'
+        2. Klicke auf '...'
+        3. Scrolle runter zu '...'
+        4. Fehler '...' tritt auf
+    validations:
+      required: true
+  - type: textarea
+    id: zusaetzliche-informationen
+    attributes:
+      label: Zusätzliche Informationen
+      description: |
+        Stelle alle zusätzlichen Informationen wie Protokolle, Screenshots, Likes, Szenarien, in denen der Fehler auftritt, zur Verfügung, um die Lösung des Problems zu erleichtern.

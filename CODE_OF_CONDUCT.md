@@ -2,7 +2,7 @@
 
 ## Willkommen zur Mitwirkung an Das Relationship auf GitHub!
 
-Wir freuen uns über Ihr Interesse an der Mitwirkung an unseren Projekten. Durch Ihre Beiträge können wir unsere Dienstleistungen verbessern und mehr Menschen unterstützen. Bitte beachten Sie die folgenden Richtlinien, um einen reibungslosen Beitrag zu gewährleisten:
+Wir freuen uns über Ihr Interesse an der Mitwirkung an unseren Projekten. Duårch Ihre Beiträge können wir unsere Dienstleistungen verbessern und mehr Menschen unterstützen. Bitte beachten Sie die folgenden Richtlinien, um einen reibungslosen Beitrag zu gewährleisten:
 
 ## Wie können Sie beitragen?
 

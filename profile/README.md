@@ -8,7 +8,7 @@ Willkommen bei **Das Relationship GbR** – Ihrem vertrauenswürdigen Partner f�
 
 ## Unsere Dienstleistungen
 
-- **Familien- und Paarberatung**: Wir unterstützen Sie dabei, wieder mehr Nähe und Harmonie in Ihren Beziehungen zu erleben und Konflikte sowie emotionale Distanzen aufzulösen.
+- **Familien- und Paarberatung**: Wir unterstützen Sie dabei, wieder mehr Nähe und Harmonie in Ihren Beziehungen zu erleben und Konflikte sowie emotionale Distanzen aufzulösen.
 
 - **Schulassistenz und Betreuung**: Wir bieten ambulante Eingliederungshilfen wie Schulassistenz gemäß SGB VIII und SGB IX sowie Alltagsbegleitung, Betreuung und Familienhilfe nach den Bestimmungen des SGB V und SGB XI an.
 
@@ -16,13 +16,13 @@ Willkommen bei **Das Relationship GbR** – Ihrem vertrauenswürdigen Partner f�
 
 Für weitere Informationen oder zur Vereinbarung eines kostenlosen Erstgesprächs erreichen Sie uns unter:
 
-- **Adresse**: Hermannsteiner Straße 100, 35614 Aßlar citeturn0search2
+- **Adresse**: Hermannsteiner Straße 100, 35614 Aßlar
 
-- **E-Mail**: info@dasrelationship.com
+- **E-Mail**: info@dasrelationship.com
+  
+- **Telefon**: +49 176 22851838
 
-- **Telefon**: +49 176 22851838
-
-Besuchen Sie auch unsere Website: [dasrelationship.com](https://dasrelationship.com/)
+Besuchen Sie auch unsere Website: [dasrelationship.com](https://dasrelationship.com/)
 
 ## Social Media
 

@@ -40,7 +40,7 @@ Bleiben Sie mit uns in Verbindung:
 
 ## Karriere
 
-Möchten Sie Teil unseres Teams werden? Wir sind stets auf der Suche nach engagierten Schulbegleitern und Fachkräften. Bewerbungen sind mit und ohne Ausbildung möglich. Weitere Informationen finden Sie auf unserer Karriereseite: [Offene Stellen](https://dasrelationship.com/jobs/)
+Möchten Sie Teil unseres Teams werden? Wir sind stets auf der Suche nach engagierten Schulbegleitern und Fachkräften. Bewerbungen sind mit und ohne Ausbildung möglich. Weitere Informationen finden Sie auf unserer Karriereseite: [Offene Stellen](https://dasrelationship.com/jobs/)
 
 ---
 
